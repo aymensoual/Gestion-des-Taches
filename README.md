@@ -4,11 +4,12 @@ Gestion des taches
            * Spring Boot
            * Spring Security
            * Spring MVC
-           * Spring Data JPA (Hibernate)
+           * Spring Data JPA 
+           * Hibernate
            * Thymeleaf
-           * MySQL (5.7.11)
+           * MySQL 
            * Admin LTE template
-           * Bootstrap (UI Presentation)
+           * Bootstrap
  
  
 APPLICATION SCREENSHOTS
